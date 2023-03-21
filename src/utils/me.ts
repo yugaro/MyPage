@@ -339,7 +339,7 @@ export const qualificationList = () => {
     {
       id: 2,
       title:
-        'The Official Business Skill Test in Bookkeeping, 3rd grade, Jan. 2023',
+        'The Official Business Skill Test in Bookkeeping, 2rd grade, Mar. 2023',
     },
     { id: 3, title: 'Advanced Diver (PADI), Jul. 2022' },
     { id: 4, title: "First-Class Boat's Operator, Jul. 2022" },
