@@ -336,13 +336,14 @@ export const conferenceList = () => {
 export const qualificationList = () => {
   const data = [
     { id: 1, title: 'TOEIC, SCORE: 905, Nov. 2022' },
+    { id: 2, title: 'Linguaskill Speaking & Writing: B2 grade, Apr. 2023' },
     {
-      id: 2,
+      id: 3,
       title:
         'The Official Business Skill Test in Bookkeeping, 2rd grade, Mar. 2023',
     },
-    { id: 3, title: 'Advanced Diver (PADI), Jul. 2022' },
-    { id: 4, title: "First-Class Boat's Operator, Jul. 2022" },
+    { id: 4, title: 'Advanced Diver (PADI), Jul. 2022' },
+    { id: 5, title: "First-Class Boat's Operator, Jul. 2022" },
   ]
   return data
 }
